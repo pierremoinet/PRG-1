@@ -1,7 +1,7 @@
 # Pseudo code de votre programme
 
 Etape 1:
-Ecrire unidex commentaire pour citer le codeur
+Ecrire un index commentaire pour citer le codeur
 
 Etape 2 :
 Integrer les bibliothèques utiles (iostream)
@@ -11,11 +11,13 @@ Etape 3 : integrer main() {}
 Etape 4:
 Declarer les valeurs qu'on va utiliser
 les valeurs sont compatibles pour les calculs simples (km/h, km, h)
-constante L1 = 6km
-constante S1 = 5km/h
-variable dx = 3km
+constante length_1 = 6km
+constante speed_1 = 5km/h
+constante dx = 3km
 variable dy = 10-6km
-constante s2 = 2 km/h
+constante speed_2 = 2 km/h
+
+Tout definir en float pour faciliter les calculs
 
 Etape 5:
 Calculer en 3 phases:
